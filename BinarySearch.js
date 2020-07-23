@@ -36,4 +36,4 @@ const binarySearch = (array, targetValue) => {
   console.log("targetValue value not found in array");
 }
 
-export binarySearch;
+export default binarySearch;
